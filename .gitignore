@@ -1,0 +1,19 @@
+# Compiled Java files
+*.class
+
+# NetBeans build output
+build/
+dist/
+
+# NetBeans private user settings
+nbproject/private/
+
+# macOS
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
