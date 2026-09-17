@@ -211,42 +211,6 @@ Average waiting time: 2233 ms
 - Apache Ant
 - NetBeans
 
-## ▶️ How to Run
-
-### Using the Command Line
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Oroni-Saha/AirportSimulation.git
-```
-
-Move into the project directory:
-
-```bash
-cd AirportSimulation
-```
-
-Compile the Java source files:
-
-```bash
-javac -d out src/airportsimulation/*.java
-```
-
-Run the simulation:
-
-```bash
-java -cp out airportsimulation.AirportSimulation
-```
-
-### Using NetBeans
-
-1. Open NetBeans.
-2. Select **File → Open Project**.
-3. Select the `AirportSimulation` directory.
-4. Build the project.
-5. Run `AirportSimulation.java`.
-
 ## 🎓 Project Purpose
 
 This project was developed as part of a **Concurrent Programming assignment** to demonstrate the practical application of concurrency concepts in Java.
